@@ -1,0 +1,22 @@
+body {
+  background: url("images/nightsky.jpeg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  
+}
+
+section {
+  background-color: steelblue;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 12rem;
+  opacity: 0.85;
+}
+
+p {
+  padding: 3rem 3rem;
+  font-size: 2rem;
+  color: white;
+}
